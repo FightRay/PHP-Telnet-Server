@@ -1,0 +1,5 @@
+Project Kenshoo PHP Telnet Server
+Created by FightRay.
+
+Please execute file run.php in order to start the server.
+$ php -f ./run.php
